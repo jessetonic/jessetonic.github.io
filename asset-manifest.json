@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jessetonic.github.io/static/css/main.3efb58a7.css",
-    "main.js": "https://jessetonic.github.io/static/js/main.aeb6a4fb.js",
+    "main.js": "https://jessetonic.github.io/static/js/main.1b362f62.js",
     "static/js/787.58984d38.chunk.js": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js",
     "static/media/20221224 jesse_painting.png": "https://jessetonic.github.io/static/media/20221224 jesse_painting.bc0e7f8722ec7db50985.png",
     "static/media/20220820 learning to appreciate myself (night ver) (upload ver).png": "https://jessetonic.github.io/static/media/20220820 learning to appreciate myself (night ver) (upload ver).033b6a99851942e09eb3.png",
@@ -11,7 +11,7 @@
     "static/media/ref sheet.jpg": "https://jessetonic.github.io/static/media/ref sheet.cb6222edc3a0724cf87d.jpg",
     "static/media/20220718 Light (upload ver).jpg": "https://jessetonic.github.io/static/media/20220718 Light (upload ver).69e04c8602fd0c8f77be.jpg",
     "static/media/default home img.jpg": "https://jessetonic.github.io/static/media/default home img.69e04c8602fd0c8f77be.jpg",
-    "static/media/20230108 jack stardust fancy.jpg": "https://jessetonic.github.io/static/media/20230108 jack stardust fancy.36ff9ceeeb9c643c76c8.jpg",
+    "static/media/20230108 jack stardust fancy (glasses ver).jpg": "https://jessetonic.github.io/static/media/20230108 jack stardust fancy (glasses ver).bce53b027b6ed6acbf23.jpg",
     "static/media/12+.png": "https://jessetonic.github.io/static/media/12+.b9a194e2dee73742d094.png",
     "static/media/15+.png": "https://jessetonic.github.io/static/media/15+.18dce709a287cf2c0890.png",
     "static/media/08PG.png": "https://jessetonic.github.io/static/media/08PG.4112e64d62d87457cac9.png",
@@ -19,11 +19,11 @@
     "static/media/04G.png": "https://jessetonic.github.io/static/media/04G.cd171f15aa7ea3a12dd4.png",
     "index.html": "https://jessetonic.github.io/index.html",
     "main.3efb58a7.css.map": "https://jessetonic.github.io/static/css/main.3efb58a7.css.map",
-    "main.aeb6a4fb.js.map": "https://jessetonic.github.io/static/js/main.aeb6a4fb.js.map",
+    "main.1b362f62.js.map": "https://jessetonic.github.io/static/js/main.1b362f62.js.map",
     "787.58984d38.chunk.js.map": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3efb58a7.css",
-    "static/js/main.aeb6a4fb.js"
+    "static/js/main.1b362f62.js"
   ]
 }
