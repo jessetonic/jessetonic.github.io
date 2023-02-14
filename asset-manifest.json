@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://jessetonic.github.io/static/css/main.939f9a91.css",
-    "main.js": "https://jessetonic.github.io/static/js/main.e63ec61d.js",
+    "main.css": "https://jessetonic.github.io/static/css/main.2f7d31fe.css",
+    "main.js": "https://jessetonic.github.io/static/js/main.dc121c1d.js",
     "static/js/787.58984d38.chunk.js": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js",
     "static/media/20221224 jesse_painting.png": "https://jessetonic.github.io/static/media/20221224 jesse_painting.bc0e7f8722ec7db50985.png",
     "static/media/20220820 learning to appreciate myself (night ver) (upload ver).png": "https://jessetonic.github.io/static/media/20220820 learning to appreciate myself (night ver) (upload ver).033b6a99851942e09eb3.png",
@@ -18,12 +18,12 @@
     "static/media/2-PG.png": "https://jessetonic.github.io/static/media/2-PG.de7eb590c055a05d2925.png",
     "static/media/1-G.png": "https://jessetonic.github.io/static/media/1-G.aed12d4dd838c035250d.png",
     "index.html": "https://jessetonic.github.io/index.html",
-    "main.939f9a91.css.map": "https://jessetonic.github.io/static/css/main.939f9a91.css.map",
-    "main.e63ec61d.js.map": "https://jessetonic.github.io/static/js/main.e63ec61d.js.map",
+    "main.2f7d31fe.css.map": "https://jessetonic.github.io/static/css/main.2f7d31fe.css.map",
+    "main.dc121c1d.js.map": "https://jessetonic.github.io/static/js/main.dc121c1d.js.map",
     "787.58984d38.chunk.js.map": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.939f9a91.css",
-    "static/js/main.e63ec61d.js"
+    "static/css/main.2f7d31fe.css",
+    "static/js/main.dc121c1d.js"
   ]
 }
