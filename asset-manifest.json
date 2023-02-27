@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jessetonic.github.io/static/css/main.7b321d97.css",
-    "main.js": "https://jessetonic.github.io/static/js/main.7ed17b33.js",
+    "main.js": "https://jessetonic.github.io/static/js/main.66f9786b.js",
     "static/js/787.58984d38.chunk.js": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js",
     "static/media/20221224 jesse_painting.png": "https://jessetonic.github.io/static/media/20221224 jesse_painting.bc0e7f8722ec7db50985.png",
     "static/media/20220820 learning to appreciate myself (night ver) (upload ver).png": "https://jessetonic.github.io/static/media/20220820 learning to appreciate myself (night ver) (upload ver).033b6a99851942e09eb3.png",
@@ -12,20 +12,18 @@
     "static/media/20220718 Light (upload ver).jpg": "https://jessetonic.github.io/static/media/20220718 Light (upload ver).69e04c8602fd0c8f77be.jpg",
     "static/media/default home img.jpg": "https://jessetonic.github.io/static/media/default home img.69e04c8602fd0c8f77be.jpg",
     "static/media/20230108 jack stardust fancy (glasses ver).jpg": "https://jessetonic.github.io/static/media/20230108 jack stardust fancy (glasses ver).bce53b027b6ed6acbf23.jpg",
-    "static/media/18+.png": "https://jessetonic.github.io/static/media/18+.e690d7baba6ab41b7c9c.png",
-    "static/media/06+.png": "https://jessetonic.github.io/static/media/06+.a8e079926ab18aa0afbe.png",
-    "static/media/16+.png": "https://jessetonic.github.io/static/media/16+.d189d27ca88ac5cc4a39.png",
-    "static/media/09+.png": "https://jessetonic.github.io/static/media/09+.60f2d84f461b7e9e9650.png",
-    "static/media/03+.png": "https://jessetonic.github.io/static/media/03+.8ff16e7247cee6de2676.png",
-    "static/media/12+.png": "https://jessetonic.github.io/static/media/12+.f4c9bde09f9f89f18ad8.png",
-    "static/media/14+.png": "https://jessetonic.github.io/static/media/14+.6901a28da90f8923e193.png",
+    "static/media/5-AO.png": "https://jessetonic.github.io/static/media/5-AO.6f809efc2fa8230559b4.png",
+    "static/media/2-PG.png": "https://jessetonic.github.io/static/media/2-PG.40e3a8db811cd1a5ee2b.png",
+    "static/media/4-18+.png": "https://jessetonic.github.io/static/media/4-18+.cf20423f2dc71e59b99e.png",
+    "static/media/1-G.png": "https://jessetonic.github.io/static/media/1-G.7d313a731d42a393bd34.png",
+    "static/media/3-14+.png": "https://jessetonic.github.io/static/media/3-14+.cf4132605e0075b3473d.png",
     "index.html": "https://jessetonic.github.io/index.html",
     "main.7b321d97.css.map": "https://jessetonic.github.io/static/css/main.7b321d97.css.map",
-    "main.7ed17b33.js.map": "https://jessetonic.github.io/static/js/main.7ed17b33.js.map",
+    "main.66f9786b.js.map": "https://jessetonic.github.io/static/js/main.66f9786b.js.map",
     "787.58984d38.chunk.js.map": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b321d97.css",
-    "static/js/main.7ed17b33.js"
+    "static/js/main.66f9786b.js"
   ]
 }
