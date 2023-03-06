@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "https://jessetonic.github.io/static/css/main.7b321d97.css",
-    "main.js": "https://jessetonic.github.io/static/js/main.cd910e54.js",
+    "main.css": "https://jessetonic.github.io/static/css/main.6c8e5065.css",
+    "main.js": "https://jessetonic.github.io/static/js/main.e74bbc86.js",
     "static/js/787.58984d38.chunk.js": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js",
     "static/media/20221224 jesse_painting.png": "https://jessetonic.github.io/static/media/20221224 jesse_painting.bc0e7f8722ec7db50985.png",
+    "static/media/boba pfp.png": "https://jessetonic.github.io/static/media/boba pfp.9c36ba08c379d420a35a.png",
     "static/media/20220820 learning to appreciate myself (night ver) (upload ver).png": "https://jessetonic.github.io/static/media/20220820 learning to appreciate myself (night ver) (upload ver).033b6a99851942e09eb3.png",
-    "static/media/blushy pfp.png": "https://jessetonic.github.io/static/media/blushy pfp.df97b78569db96cb6780.png",
     "static/media/20220822 self-forgiveness (upload ver).png": "https://jessetonic.github.io/static/media/20220822 self-forgiveness (upload ver).05c8065826493c822cb1.png",
     "static/media/20220817 Jesse head portrait (upload ver).png": "https://jessetonic.github.io/static/media/20220817 Jesse head portrait (upload ver).d6c06292eb25cd931d53.png",
     "static/media/ref sheet.jpg": "https://jessetonic.github.io/static/media/ref sheet.cb6222edc3a0724cf87d.jpg",
@@ -17,12 +17,12 @@
     "static/media/1-G.png": "https://jessetonic.github.io/static/media/1-G.7d313a731d42a393bd34.png",
     "static/media/3-14+.png": "https://jessetonic.github.io/static/media/3-14+.cf4132605e0075b3473d.png",
     "index.html": "https://jessetonic.github.io/index.html",
-    "main.7b321d97.css.map": "https://jessetonic.github.io/static/css/main.7b321d97.css.map",
-    "main.cd910e54.js.map": "https://jessetonic.github.io/static/js/main.cd910e54.js.map",
+    "main.6c8e5065.css.map": "https://jessetonic.github.io/static/css/main.6c8e5065.css.map",
+    "main.e74bbc86.js.map": "https://jessetonic.github.io/static/js/main.e74bbc86.js.map",
     "787.58984d38.chunk.js.map": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b321d97.css",
-    "static/js/main.cd910e54.js"
+    "static/css/main.6c8e5065.css",
+    "static/js/main.e74bbc86.js"
   ]
 }
