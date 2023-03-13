@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jessetonic.github.io/static/css/main.c2046992.css",
-    "main.js": "https://jessetonic.github.io/static/js/main.d6f24802.js",
+    "main.js": "https://jessetonic.github.io/static/js/main.6351c646.js",
     "static/js/787.58984d38.chunk.js": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js",
     "static/media/20221224 jesse_painting.png": "https://jessetonic.github.io/static/media/20221224 jesse_painting.bc0e7f8722ec7db50985.png",
     "static/media/boba pfp.png": "https://jessetonic.github.io/static/media/boba pfp.9c36ba08c379d420a35a.png",
@@ -20,11 +20,11 @@
     "static/media/07+.png": "https://jessetonic.github.io/static/media/07+.cfabe520039c3542c238.png",
     "index.html": "https://jessetonic.github.io/index.html",
     "main.c2046992.css.map": "https://jessetonic.github.io/static/css/main.c2046992.css.map",
-    "main.d6f24802.js.map": "https://jessetonic.github.io/static/js/main.d6f24802.js.map",
+    "main.6351c646.js.map": "https://jessetonic.github.io/static/js/main.6351c646.js.map",
     "787.58984d38.chunk.js.map": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2046992.css",
-    "static/js/main.d6f24802.js"
+    "static/js/main.6351c646.js"
   ]
 }
