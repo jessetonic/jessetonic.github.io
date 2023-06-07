@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jessetonic.github.io/static/css/main.506e680a.css",
-    "main.js": "https://jessetonic.github.io/static/js/main.841889fd.js",
+    "main.js": "https://jessetonic.github.io/static/js/main.210df4a6.js",
     "static/js/787.58984d38.chunk.js": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js",
     "static/media/20221224 jesse_painting.png": "https://jessetonic.github.io/static/media/20221224 jesse_painting.bc0e7f8722ec7db50985.png",
     "static/media/boba pfp.png": "https://jessetonic.github.io/static/media/boba pfp.9c36ba08c379d420a35a.png",
@@ -17,18 +17,19 @@
     "static/media/banner.jpg": "https://jessetonic.github.io/static/media/banner.1e535dd48f11b32bbc65.jpg",
     "static/media/inspire 002 (upload).jpg": "https://jessetonic.github.io/static/media/inspire 002 (upload).1e535dd48f11b32bbc65.jpg",
     "static/media/inspire.jpg": "https://jessetonic.github.io/static/media/inspire.1b08683f905a93f259fe.jpg",
-    "static/media/2.PG.png": "https://jessetonic.github.io/static/media/2.PG.6175f9ed8c8f5d389785.png",
-    "static/media/4.18A.png": "https://jessetonic.github.io/static/media/4.18A.552f80b0c5fb2c4e0fe8.png",
-    "static/media/3.14A.png": "https://jessetonic.github.io/static/media/3.14A.0bf8b902dca14c28f58d.png",
-    "static/media/1.G.png": "https://jessetonic.github.io/static/media/1.G.bb96c69eaa16e23f72d4.png",
-    "static/media/5.R.png": "https://jessetonic.github.io/static/media/5.R.690a8ac2cb8535dc6587.png",
+    "static/media/15+.png": "https://jessetonic.github.io/static/media/15+.d783a9166b745d7f175f.png",
+    "static/media/12+.png": "https://jessetonic.github.io/static/media/12+.6a001e63dfacbeb7c184.png",
+    "static/media/18+.png": "https://jessetonic.github.io/static/media/18+.9693f535fcabb8724ebb.png",
+    "static/media/09+.png": "https://jessetonic.github.io/static/media/09+.553f8fdda7d9cae177d8.png",
+    "static/media/06+.png": "https://jessetonic.github.io/static/media/06+.3b2bb41e2044d5db977d.png",
+    "static/media/03+.png": "https://jessetonic.github.io/static/media/03+.63e027b246703a8d2ea9.png",
     "index.html": "https://jessetonic.github.io/index.html",
     "main.506e680a.css.map": "https://jessetonic.github.io/static/css/main.506e680a.css.map",
-    "main.841889fd.js.map": "https://jessetonic.github.io/static/js/main.841889fd.js.map",
+    "main.210df4a6.js.map": "https://jessetonic.github.io/static/js/main.210df4a6.js.map",
     "787.58984d38.chunk.js.map": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.506e680a.css",
-    "static/js/main.841889fd.js"
+    "static/js/main.210df4a6.js"
   ]
 }
