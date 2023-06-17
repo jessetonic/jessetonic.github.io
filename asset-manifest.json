@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jessetonic.github.io/static/css/main.3d6b3a77.css",
-    "main.js": "https://jessetonic.github.io/static/js/main.d320d455.js",
+    "main.js": "https://jessetonic.github.io/static/js/main.30c29282.js",
     "static/js/787.58984d38.chunk.js": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js",
     "static/media/20221224 jesse_painting.png": "https://jessetonic.github.io/static/media/20221224 jesse_painting.bc0e7f8722ec7db50985.png",
     "static/media/boba pfp.png": "https://jessetonic.github.io/static/media/boba pfp.9c36ba08c379d420a35a.png",
@@ -17,6 +17,7 @@
     "static/media/banner.jpg": "https://jessetonic.github.io/static/media/banner.1e535dd48f11b32bbc65.jpg",
     "static/media/inspire 002 (upload).jpg": "https://jessetonic.github.io/static/media/inspire 002 (upload).1e535dd48f11b32bbc65.jpg",
     "static/media/inspire.jpg": "https://jessetonic.github.io/static/media/inspire.1b08683f905a93f259fe.jpg",
+    "static/media/20230617 pastorale.jpg": "https://jessetonic.github.io/static/media/20230617 pastorale.c47192828bfaf75c7cff.jpg",
     "static/media/2.PG.png": "https://jessetonic.github.io/static/media/2.PG.7e75ae779b8f51d24987.png",
     "static/media/4.18A.png": "https://jessetonic.github.io/static/media/4.18A.959b0294513daa3bff5f.png",
     "static/media/3.14A.png": "https://jessetonic.github.io/static/media/3.14A.cc724fbce8899a94cb73.png",
@@ -24,11 +25,11 @@
     "static/media/5.R.png": "https://jessetonic.github.io/static/media/5.R.c362e95ed47e3dfb637b.png",
     "index.html": "https://jessetonic.github.io/index.html",
     "main.3d6b3a77.css.map": "https://jessetonic.github.io/static/css/main.3d6b3a77.css.map",
-    "main.d320d455.js.map": "https://jessetonic.github.io/static/js/main.d320d455.js.map",
+    "main.30c29282.js.map": "https://jessetonic.github.io/static/js/main.30c29282.js.map",
     "787.58984d38.chunk.js.map": "https://jessetonic.github.io/static/js/787.58984d38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d6b3a77.css",
-    "static/js/main.d320d455.js"
+    "static/js/main.30c29282.js"
   ]
 }
